@@ -1,9 +1,12 @@
 #French Bakery Dataset Exploratory Data Analysis(EDA)
+
 Overview
+
 This repository contains the Exploratory Data Analysis (EDA) of the French Bakery Dataset. The dataset comprises sales data from a fictional French bakery, including information about products, transactions, and customer demographics.
 
 The purpose of this EDA is to gain insights into the bakery's sales patterns, understand customer behavior, and identify opportunities for business improvement.
 Analysis
+
 The EDA is divided into several sections:
 
 Data Loading and Inspection: In this section, we load the dataset and inspect its structure, including data types, missing values, and basic statistics.
